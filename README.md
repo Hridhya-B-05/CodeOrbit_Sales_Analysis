@@ -1,5 +1,6 @@
  Sales Data Analysis Using Python and Pandas
 
+
  1. Project Overview
 This project analyzes a sample sales dataset using Python and Pandas. It calculates total revenue, average order value, and best-selling products, and summarizes sales by category, region, and month.
 
